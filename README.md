@@ -1,7 +1,7 @@
 # First
 My first repo
 Here I will put some of the coding projects I did while learing to be a software developer.
-# Rock-paper-sciisors #
+# Rock-paper-scissors #
 In Rock-paper-scissors I used text file to save player data and update them too instead of using 
 SQL because I have used SQL in simple banking project that I did and I was that confident in handling files in python 
 so to practice I used files.
